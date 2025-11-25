@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int pangkat(int a, int b){
@@ -42,3 +43,4 @@ int main(){
 	cout << "Fibo A      = " << fibo(a) << endl;
 	
 }
+
